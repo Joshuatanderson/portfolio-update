@@ -11,7 +11,7 @@ const Card = ({ repo }: CardProps) => {
 		<div className="card">
 			<div className="card-content card-fixed-height has-text-centered">
 				<p className="subtitle is-4">{repo['name']}</p>
-				<a className="button is-primary" href={repo['html_url']}>view code</a>
+				<a className="button is-dark" href={repo['html_url']}>view code</a>
 			</div>
 		</div>
 	)

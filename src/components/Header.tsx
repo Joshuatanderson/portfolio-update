@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
 	return (
-		<section className="hero is-primary">
+		<section className="hero is-dark">
 			<div className="hero-body">
 				<div className="container">
 					<h1 className="title">
