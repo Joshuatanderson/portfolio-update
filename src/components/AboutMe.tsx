@@ -5,7 +5,8 @@ const AboutMe = () => {
 		<div className="section">
 			<div className="container has-text-centered">
 				<h3 className="title is-2">
-					Hello! :) 
+					Hello! <br/>
+					:) 
 				</h3>
 				<p className="subtitle is-5">
 					Allow me to introduce myself.<br/>  I'm <strong>Joshua Anderson</strong>.  <br/>
