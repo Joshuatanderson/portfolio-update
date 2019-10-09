@@ -1,4 +1,4 @@
 #todo: 
-[ ] link to github, linkedin
-[ ] dark mode!
-[ ] github feed.
+- [ ] link to github, linkedin
+- [ ] dark mode!
+- [ ] github feed.
